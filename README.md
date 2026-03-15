@@ -11,7 +11,7 @@ Sou apaixonado por transformar ideias em experiências digitais através de cód
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Front-End** | HTML5, CSS3, JavaScript (ES6+), React.js |
-| **Ferramentas** | Git, GitHub, VS Code, Power BI |
+| **Ferramentas** | Git, GitHub, VS Code |
 | **Outros** | Gestão de Projetos, UI/UX Design, Linux (Debian/Ubuntu) |
 
 ---
